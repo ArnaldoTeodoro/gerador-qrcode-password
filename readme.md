@@ -26,4 +26,4 @@
 <p></p>
 
 <h2>Arquitetura da Aplicação:</h2>
-<img src="./docs/arquitetura-qrcode.png" alt="Descrição da imagem para acessibilidade" width="400"
+<img src="docs/arquitetura-qrcode.png" alt="Arquitetura QRCode" width="700"/>
